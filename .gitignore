@@ -1,0 +1,42 @@
+# ---- Keil MDK build output ----
+Objects/
+Listings/
+DebugConfig/
+RTE/
+
+# ---- Keil user / GUI settings ----
+*.uvguix.*
+*.uvguix
+*.scvd.bak
+
+# ---- Compiler / linker artifacts ----
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.lnp
+*.dep
+*.iex
+*.sct
+*.htm
+*.__i
+*.build_log.htm
+*.bak
+*.ddk
+*.edk
+*.omf
+*.plg
+*.tmp
+*.tra
+*.browse
+
+# ---- OS / editor ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
